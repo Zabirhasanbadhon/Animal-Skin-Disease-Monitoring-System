@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZaBir HaSan - Animal Skin Disease Monitoring System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="bg-glow"></div>
+    <div class="bg-glow bg-glow-2"></div>
+
+    <div class="app-container">
+        <header class="topbar">
+            <div class="logo">
+                <span class="logo-icon">🐄</span>
+                <span class="logo-text">Skin  <span class="accent">Disease Monitoring System</span></span>
+            </div>
+            <div class="status-badge">
+                <span class="dot" id="status-dot"></span>
+                <span id="status-text">Ready</span>
+            </div>
+        </header>
+
+        <main class="main-grid">
+            <section class="video-panel glass">
+                <div class="panel-header">
+                    <h2>Live Monitoring Feed</h2>
+                    <span class="model-tag" id="model-tag">Loading...</span>
+                </div>
+                <div class="video-wrapper">
+                    <img id="video-feed" src="" alt="Waiting for stream" onerror="this.style.display='none'">
+                    <div class="video-placeholder" id="video-placeholder">
+                        <div class="placeholder-icon">📹</div>
+                        <p>Upload a video to start detection</p>
+                    </div>
+                </div>
+            </section>
+
+            <aside class="side-panel">
+                <div class="card glass upload-card">
+                    <h3>📤 Upload Video</h3>
+                    <form id="upload-form">
+                        <label class="file-drop" id="file-drop">
+                            <input type="file" id="video-file" name="video" accept="video/*" hidden>
+                            <span class="file-icon">🎬</span>
+                            <span class="file-label" id="file-label">Click or drag a video file</span>
+                        </label>
+                        <button type="submit" class="btn-primary" id="upload-btn" disabled>
+                            Start Detection
+                        </button>
+                    </form>
+                </div>
+
+                <div class="card glass stats-card">
+                    <h3>📊 Detection Stats</h3>
+                    <div class="stat-row">
+                        <div class="stat-item">
+                            <span class="stat-value" id="count-cow">0</span>
+                            <span class="stat-label">🐄 Total Cows</span>
+                        </div>
+                        <div class="stat-item healthy">
+                            <span class="stat-value" id="count-healthy">0</span>
+                            <span class="stat-label">✅ Healthy</span>
+                        </div>
+                        <div class="stat-item lumpy">
+                            <span class="stat-value" id="count-lumpy">0</span>
+                            <span class="stat-label">⚠️ Lumpy</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Auto-saved results (video + JSON + CSV only) -->
+                <div class="card glass results-card" id="results-card" hidden>
+                    <h3>💾 Auto-Saved Results</h3>
+                    <ul class="result-list">
+                        <li>
+                            <span class="result-label">🎥 Annotated video</span>
+                            <span id="file-video" class="result-meta">—</span>
+                        </li>
+                        <li>
+                            <span class="result-label">📄 Summary JSON</span>
+                            <span id="file-json" class="result-meta">—</span>
+                        </li>
+                        <li>
+                            <span class="result-label">📊 Frames CSV</span>
+                            <span id="file-csv" class="result-meta">—</span>
+                        </li>
+                        <li>
+                            <span class="result-label">⏱️ Frames processed</span>
+                            <span id="frames-count" class="result-meta">0</span>
+                        </li>
+                        <li>
+                            <span class="result-label">🔝 Peak counts</span>
+                            <span id="peak-counts" class="result-meta">—</span>
+                        </li>
+                    </ul>
+                    <p class="result-hint">
+                        Files are stored on the server in <code>outputs/</code>.
+                        Open that folder directly to view them.
+                    </p>
+                </div>
+
+                <div class="card glass info-card">
+                    <h3>💡 Info</h3>
+                    <p>Place your trained model in the <code>models/</code> folder and point
+                       <code>LESION_MODEL_PATH</code> in <code>app.py</code> at it to enable
+                       disease classification. Otherwise a pretrained YOLO model is used.</p>
+                </div>
+            </aside>
+        </main>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

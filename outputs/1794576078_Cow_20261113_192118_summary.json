@@ -1,0 +1,4448 @@
+{
+  "source_video": "D:\\My Projects\\Animal Disease Monitoring System\\static\\uploads\\1794576078_Cow.mp4",
+  "annotated_video": "D:\\My Projects\\Animal Disease Monitoring System\\outputs\\1794576078_Cow_20261113_192118_annotated.mp4",
+  "video_codec": "mp4v",
+  "summary_json": "D:\\My Projects\\Animal Disease Monitoring System\\outputs\\1794576078_Cow_20261113_192118_summary.json",
+  "frames_csv": "D:\\My Projects\\Animal Disease Monitoring System\\outputs\\1794576078_Cow_20261113_192118_frames.csv",
+  "frames_processed": 215,
+  "peak_counts": {
+    "Cow": 1,
+    "Healthy": 0,
+    "Lumpy": 1
+  },
+  "final_counts": {
+    "Cow": 1,
+    "Healthy": 0,
+    "Lumpy": 1
+  },
+  "generated_at": "2026-11-13T19:21:34",
+  "timeline": [
+    {
+      "frame": 0,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            174.30577087402344,
+            55.4366455078125,
+            533.9722900390625,
+            467.27728271484375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 1,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            174.64671325683594,
+            56.071197509765625,
+            533.5140380859375,
+            461.8375549316406
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 2,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            175.2296142578125,
+            57.04827880859375,
+            532.940673828125,
+            460.80584716796875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 3,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            175.01133728027344,
+            57.34761047363281,
+            533.1409912109375,
+            462.74407958984375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 4,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            173.58827209472656,
+            56.83807373046875,
+            532.734130859375,
+            464.35687255859375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 5,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            173.41127014160156,
+            57.967987060546875,
+            532.7891845703125,
+            465.5174865722656
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 6,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            173.3680419921875,
+            57.94087219238281,
+            532.5076293945312,
+            466.29595947265625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 7,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            173.41058349609375,
+            58.7425537109375,
+            532.41162109375,
+            466.2393798828125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 8,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            173.19850158691406,
+            58.8779296875,
+            532.587890625,
+            467.140380859375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 9,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            172.648681640625,
+            59.622711181640625,
+            532.1842041015625,
+            471.9382019042969
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 10,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            171.794189453125,
+            60.43670654296875,
+            532.08642578125,
+            472.37860107421875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 11,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            170.456298828125,
+            60.45599365234375,
+            532.0015869140625,
+            473.87542724609375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 12,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            166.7545166015625,
+            60.822174072265625,
+            531.9572143554688,
+            471.3287048339844
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 13,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            162.7701873779297,
+            61.00732421875,
+            531.8618774414062,
+            469.49114990234375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 14,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            162.38233947753906,
+            61.21209716796875,
+            531.8726806640625,
+            469.3792724609375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 15,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            165.23956298828125,
+            61.27252197265625,
+            534.2809448242188,
+            469.23492431640625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 16,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            167.00146484375,
+            61.5391845703125,
+            536.36279296875,
+            469.42059326171875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 17,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            168.21728515625,
+            61.317626953125,
+            540.0463256835938,
+            469.765380859375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 18,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            169.69671630859375,
+            61.43890380859375,
+            543.8314208984375,
+            469.73162841796875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 19,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            168.3985595703125,
+            61.43212890625,
+            546.5419311523438,
+            472.338134765625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 20,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            166.13525390625,
+            61.085784912109375,
+            549.6808471679688,
+            471.8079528808594
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 21,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            164.33819580078125,
+            60.7169189453125,
+            550.4371337890625,
+            470.15911865234375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 22,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            165.897216796875,
+            61.11346435546875,
+            540.0364990234375,
+            470.683349609375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 23,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            160.6513671875,
+            60.75457763671875,
+            549.9110717773438,
+            473.3262939453125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 24,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            175.71087646484375,
+            60.28614807128906,
+            536.97412109375,
+            471.460205078125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 25,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            163.3422393798828,
+            59.35321044921875,
+            526.6157836914062,
+            469.9149169921875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 26,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            176.2850341796875,
+            59.29475402832031,
+            526.3734130859375,
+            466.47869873046875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 27,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            162.557373046875,
+            60.23797607421875,
+            527.2481689453125,
+            468.52947998046875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 28,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            165.85272216796875,
+            59.498291015625,
+            527.177001953125,
+            468.3726806640625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 29,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            156.5184326171875,
+            60.03759765625,
+            527.3143920898438,
+            468.805419921875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 30,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            158.59375,
+            57.98463439941406,
+            526.8921508789062,
+            471.6356201171875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 31,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            161.326904296875,
+            59.12103271484375,
+            527.963623046875,
+            468.33966064453125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 32,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            162.75611877441406,
+            58.990081787109375,
+            528.383544921875,
+            470.8600769042969
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 33,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            159.8043670654297,
+            58.35212707519531,
+            528.6674194335938,
+            468.79046630859375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 34,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            152.3985595703125,
+            59.2852783203125,
+            528.4921264648438,
+            471.0821533203125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 35,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            152.04193115234375,
+            59.0577392578125,
+            528.7870483398438,
+            470.70794677734375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 36,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            162.619140625,
+            58.37255859375,
+            528.6558837890625,
+            472.010009765625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 37,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            175.02545166015625,
+            58.89482116699219,
+            530.1112670898438,
+            469.93194580078125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 38,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            175.148193359375,
+            58.01985168457031,
+            529.4248046875,
+            475.42620849609375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 39,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            174.32244873046875,
+            57.95196533203125,
+            530.10302734375,
+            471.649169921875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 40,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            173.61773681640625,
+            58.68577575683594,
+            531.5162353515625,
+            470.574951171875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 41,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            173.24847412109375,
+            59.20947265625,
+            535.3892211914062,
+            472.06097412109375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 42,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            171.1236572265625,
+            59.21417236328125,
+            546.093017578125,
+            468.93865966796875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 43,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            169.6045684814453,
+            58.866973876953125,
+            560.4114379882812,
+            472.2773742675781
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 44,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            167.6501922607422,
+            59.39947509765625,
+            574.9494018554688,
+            474.83489990234375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 45,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            164.3685302734375,
+            59.96746826171875,
+            584.430419921875,
+            472.35028076171875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 46,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            160.6664581298828,
+            60.272369384765625,
+            575.0639038085938,
+            472.3649597167969
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 47,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            156.5498046875,
+            61.74603271484375,
+            611.9581298828125,
+            472.27520751953125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 48,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            150.27264404296875,
+            62.14097595214844,
+            576.5680541992188,
+            474.0888671875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 49,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            147.460205078125,
+            60.69757080078125,
+            542.2789306640625,
+            472.91253662109375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 50,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            144.11773681640625,
+            60.029022216796875,
+            545.318603515625,
+            467.7392883300781
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 51,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            142.89068603515625,
+            59.90129089355469,
+            540.1209106445312,
+            461.00640869140625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 52,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            141.269775390625,
+            59.306640625,
+            540.5391235351562,
+            468.5064697265625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 53,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            136.83013916015625,
+            59.5733642578125,
+            540.3952026367188,
+            475.16363525390625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 54,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            131.8798828125,
+            60.08583068847656,
+            541.1491088867188,
+            469.9207763671875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 55,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            133.12646484375,
+            59.6881103515625,
+            541.2716064453125,
+            467.42041015625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 56,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            130.4575958251953,
+            59.839111328125,
+            542.1912231445312,
+            466.6275634765625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 57,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            128.2362060546875,
+            59.494293212890625,
+            542.8622436523438,
+            472.2228698730469
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 58,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            127.0579833984375,
+            59.694580078125,
+            543.292724609375,
+            467.53631591796875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 59,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            128.09100341796875,
+            58.679931640625,
+            543.5848388671875,
+            464.93243408203125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 60,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            127.34832763671875,
+            57.65106201171875,
+            544.3592529296875,
+            467.37237548828125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 61,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            127.61614990234375,
+            57.7071533203125,
+            545.3661499023438,
+            471.68603515625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 62,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            127.29673767089844,
+            58.14341735839844,
+            545.47998046875,
+            471.1595458984375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 63,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            127.33021545410156,
+            58.534393310546875,
+            545.4061279296875,
+            468.5298156738281
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 64,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            127.09466552734375,
+            57.725982666015625,
+            545.7698364257812,
+            470.8636779785156
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 65,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            127.39060974121094,
+            57.26141357421875,
+            546.2115478515625,
+            473.56988525390625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 66,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            128.4192657470703,
+            57.4127197265625,
+            546.6430053710938,
+            472.26678466796875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 67,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            128.09320068359375,
+            57.882476806640625,
+            549.9044189453125,
+            474.4319763183594
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 68,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            127.0792236328125,
+            58.22216796875,
+            566.262451171875,
+            469.0606689453125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 69,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            127.64447021484375,
+            58.40216064453125,
+            575.1445922851562,
+            468.93597412109375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 70,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            127.86964416503906,
+            58.80316162109375,
+            606.1519775390625,
+            469.35638427734375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 71,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            127.430908203125,
+            58.45222473144531,
+            619.8419799804688,
+            469.02618408203125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 72,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            126.89788818359375,
+            59.6407470703125,
+            603.6058959960938,
+            467.864990234375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 73,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            127.91752624511719,
+            59.59613037109375,
+            559.2001342773438,
+            465.19549560546875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 74,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            127.96018981933594,
+            59.941650390625,
+            558.1541748046875,
+            468.7755126953125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 75,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            127.64799499511719,
+            60.23857116699219,
+            550.1732788085938,
+            471.74664306640625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 76,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            126.95448303222656,
+            60.68626403808594,
+            548.350341796875,
+            473.374267578125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 2
+        }
+      ],
+      "frame_total_lesions": 2
+    },
+    {
+      "frame": 77,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            126.95709228515625,
+            60.86082458496094,
+            547.781982421875,
+            473.6649169921875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 78,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            127.43388366699219,
+            60.71173095703125,
+            548.4598999023438,
+            472.42724609375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 79,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            127.71998596191406,
+            60.89727783203125,
+            546.1632080078125,
+            470.91326904296875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 80,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            128.03575134277344,
+            60.78729248046875,
+            545.6248779296875,
+            469.72894287109375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 81,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            127.91899108886719,
+            60.929351806640625,
+            545.0286254882812,
+            471.3100280761719
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 82,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            126.91300964355469,
+            60.84619140625,
+            544.7854614257812,
+            467.66632080078125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 83,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            126.08671569824219,
+            61.046478271484375,
+            544.9093627929688,
+            472.2423400878906
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 84,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            120.82463073730469,
+            62.45111083984375,
+            545.2092895507812,
+            469.144775390625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 85,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            117.90830993652344,
+            62.8489990234375,
+            545.383544921875,
+            467.91448974609375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 86,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            120.36505126953125,
+            63.569549560546875,
+            545.7566528320312,
+            472.0029602050781
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 87,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            118.9996337890625,
+            63.66912841796875,
+            545.8775634765625,
+            473.62957763671875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 88,
+      "counts": {
+        "Cow": 0,
+        "Healthy": 0,
+        "Lumpy": 0
+      },
+      "cows": [],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 89,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            116.7833251953125,
+            62.8935546875,
+            546.7937622070312,
+            465.1854248046875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 90,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            115.87017822265625,
+            62.18975830078125,
+            546.6522216796875,
+            465.605224609375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 2
+        }
+      ],
+      "frame_total_lesions": 2
+    },
+    {
+      "frame": 91,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            121.25291442871094,
+            61.72785949707031,
+            547.6326904296875,
+            471.65228271484375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 92,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            114.86328125,
+            61.400970458984375,
+            547.4630126953125,
+            470.3863220214844
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 93,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            121.73883056640625,
+            61.25732421875,
+            548.2998657226562,
+            471.4903564453125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 94,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            114.77850341796875,
+            61.23968505859375,
+            549.233154296875,
+            471.0626220703125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 95,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            112.4532470703125,
+            61.28192138671875,
+            546.7786865234375,
+            474.78509521484375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 96,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            117.63975524902344,
+            61.28398132324219,
+            546.3931884765625,
+            475.13128662109375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 97,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            122.4007568359375,
+            61.22821044921875,
+            549.5458984375,
+            474.26861572265625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 98,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            129.3109588623047,
+            61.77349853515625,
+            549.8419799804688,
+            473.90850830078125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 99,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            130.39898681640625,
+            61.63580322265625,
+            550.9632568359375,
+            472.70562744140625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 100,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            118.5733642578125,
+            61.800689697265625,
+            552.6757202148438,
+            473.8462219238281
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 101,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            114.70301818847656,
+            61.61602783203125,
+            551.7210693359375,
+            473.82745361328125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 102,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            130.54010009765625,
+            61.69190979003906,
+            550.758056640625,
+            473.439208984375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 103,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            129.21189880371094,
+            61.47547912597656,
+            550.5909423828125,
+            471.9566650390625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 104,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            137.23265075683594,
+            61.42417907714844,
+            550.7041015625,
+            473.1053466796875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 105,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            139.6103515625,
+            60.8046875,
+            550.5990600585938,
+            472.6646728515625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 106,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            146.373779296875,
+            60.28266906738281,
+            550.4898681640625,
+            463.75128173828125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 107,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            152.60797119140625,
+            59.46296691894531,
+            550.2598876953125,
+            465.12884521484375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 108,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            153.006591796875,
+            59.53373718261719,
+            547.9830322265625,
+            459.37750244140625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 109,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            147.78167724609375,
+            57.800140380859375,
+            549.2330932617188,
+            458.9879455566406
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 110,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            139.80877685546875,
+            57.97821044921875,
+            549.0127563476562,
+            465.65478515625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 111,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            160.66322326660156,
+            57.45051574707031,
+            547.922119140625,
+            465.47100830078125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 112,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            178.13433837890625,
+            56.76112365722656,
+            547.3004150390625,
+            471.4036865234375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 113,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            175.20709228515625,
+            55.90962219238281,
+            545.97314453125,
+            468.40814208984375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 114,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            189.5262451171875,
+            55.552001953125,
+            545.85595703125,
+            468.03411865234375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 115,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            187.58013916015625,
+            53.86279296875,
+            546.415283203125,
+            451.8507080078125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 116,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            199.2899169921875,
+            53.41497802734375,
+            546.361572265625,
+            469.6627197265625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 117,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            188.53004455566406,
+            52.820281982421875,
+            548.3206787109375,
+            473.6030578613281
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 118,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            190.60614013671875,
+            51.58412170410156,
+            550.9730834960938,
+            471.783203125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 119,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            192.60057067871094,
+            50.994110107421875,
+            553.22900390625,
+            473.7426452636719
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 120,
+      "counts": {
+        "Cow": 0,
+        "Healthy": 0,
+        "Lumpy": 0
+      },
+      "cows": [],
+      "frame_total_lesions": 0
+    },
+    {
+      "frame": 121,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            174.431884765625,
+            49.14306640625,
+            557.5238037109375,
+            465.7392578125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 122,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            181.38092041015625,
+            48.120269775390625,
+            560.8896484375,
+            473.2638244628906
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 123,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            190.47467041015625,
+            47.29583740234375,
+            560.8375244140625,
+            470.91387939453125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 124,
+      "counts": {
+        "Cow": 0,
+        "Healthy": 0,
+        "Lumpy": 0
+      },
+      "cows": [],
+      "frame_total_lesions": 0
+    },
+    {
+      "frame": 125,
+      "counts": {
+        "Cow": 0,
+        "Healthy": 0,
+        "Lumpy": 0
+      },
+      "cows": [],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 126,
+      "counts": {
+        "Cow": 0,
+        "Healthy": 0,
+        "Lumpy": 0
+      },
+      "cows": [],
+      "frame_total_lesions": 0
+    },
+    {
+      "frame": 127,
+      "counts": {
+        "Cow": 0,
+        "Healthy": 0,
+        "Lumpy": 0
+      },
+      "cows": [],
+      "frame_total_lesions": 0
+    },
+    {
+      "frame": 128,
+      "counts": {
+        "Cow": 0,
+        "Healthy": 0,
+        "Lumpy": 0
+      },
+      "cows": [],
+      "frame_total_lesions": 0
+    },
+    {
+      "frame": 129,
+      "counts": {
+        "Cow": 0,
+        "Healthy": 0,
+        "Lumpy": 0
+      },
+      "cows": [],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 130,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            191.50616455078125,
+            43.288787841796875,
+            539.4066162109375,
+            470.7638244628906
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 131,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            243.38970947265625,
+            43.013580322265625,
+            539.0630493164062,
+            462.7718505859375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 132,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            247.202392578125,
+            42.751556396484375,
+            537.9215698242188,
+            458.087890625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 133,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            251.7037811279297,
+            42.18841552734375,
+            538.4050903320312,
+            467.4664306640625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 134,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            254.1412353515625,
+            42.458740234375,
+            538.4586181640625,
+            466.63006591796875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 135,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            252.1016845703125,
+            42.1102294921875,
+            538.6349487304688,
+            455.3641662597656
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 136,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            258.6453857421875,
+            41.71368408203125,
+            540.0531005859375,
+            450.30096435546875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 137,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            253.59820556640625,
+            41.79144287109375,
+            542.130126953125,
+            446.17340087890625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 138,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            262.93890380859375,
+            41.6658935546875,
+            544.949951171875,
+            444.96148681640625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 139,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            261.07415771484375,
+            41.4678955078125,
+            546.6387939453125,
+            447.534912109375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 140,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            261.82232666015625,
+            42.09088134765625,
+            552.67578125,
+            448.850830078125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 141,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            263.03411865234375,
+            42.507598876953125,
+            555.345458984375,
+            454.15008544921875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 142,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            264.271484375,
+            41.59326171875,
+            563.1197509765625,
+            452.533203125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 143,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            263.89385986328125,
+            42.202178955078125,
+            568.2879638671875,
+            435.438232421875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 144,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            264.7552490234375,
+            43.52569580078125,
+            560.1231689453125,
+            443.47235107421875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 145,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            262.86053466796875,
+            44.627166748046875,
+            633.4239501953125,
+            437.1047668457031
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 146,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            265.0164794921875,
+            44.4482421875,
+            640.0,
+            434.9857177734375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 147,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            262.0977783203125,
+            44.8260498046875,
+            639.50927734375,
+            450.68212890625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 148,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            262.34381103515625,
+            45.081573486328125,
+            637.5595703125,
+            462.4600830078125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 149,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            262.6787109375,
+            46.08905029296875,
+            531.3790283203125,
+            467.05535888671875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 150,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            266.86566162109375,
+            46.50787353515625,
+            529.9990844726562,
+            452.99713134765625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 151,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            265.4478759765625,
+            48.016387939453125,
+            538.42333984375,
+            455.3470153808594
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 152,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            257.54931640625,
+            48.572784423828125,
+            529.2045288085938,
+            432.3350524902344
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 153,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            259.63275146484375,
+            49.499267578125,
+            528.8120727539062,
+            422.6053466796875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 154,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            263.8878173828125,
+            50.324615478515625,
+            527.923828125,
+            451.1828918457031
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 155,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            264.94293212890625,
+            51.25469970703125,
+            527.8701782226562,
+            436.0623779296875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 156,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            266.739990234375,
+            51.302215576171875,
+            527.95703125,
+            469.1780700683594
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 157,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            265.4207763671875,
+            52.65020751953125,
+            527.10546875,
+            466.66119384765625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 158,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            267.54266357421875,
+            53.027374267578125,
+            526.4053344726562,
+            467.9188537597656
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 159,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            267.2052001953125,
+            53.6279296875,
+            526.1419677734375,
+            463.55352783203125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 160,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            266.6810302734375,
+            54.040252685546875,
+            526.3742065429688,
+            466.2889709472656
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 161,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            266.38311767578125,
+            54.70343017578125,
+            525.3976440429688,
+            468.111572265625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 162,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            268.59014892578125,
+            54.672149658203125,
+            524.7901611328125,
+            471.5713195800781
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 163,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            267.45501708984375,
+            55.20353698730469,
+            524.2636108398438,
+            465.63433837890625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 164,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            266.02935791015625,
+            55.575836181640625,
+            524.4260864257812,
+            470.2973327636719
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 165,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            266.11846923828125,
+            56.199951171875,
+            524.7785034179688,
+            457.85809326171875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 166,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            266.86541748046875,
+            56.440185546875,
+            524.2733154296875,
+            409.5413513183594
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 167,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            267.02349853515625,
+            57.015289306640625,
+            523.7393188476562,
+            465.4280700683594
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 168,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            268.271240234375,
+            57.53483581542969,
+            524.107421875,
+            468.83929443359375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 169,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            266.98016357421875,
+            57.72355651855469,
+            524.5928344726562,
+            471.12847900390625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 170,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            265.50927734375,
+            57.954925537109375,
+            526.3309936523438,
+            475.6571350097656
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 171,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            265.4991455078125,
+            58.337677001953125,
+            527.0070190429688,
+            475.4908752441406
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 172,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            265.07745361328125,
+            58.67047119140625,
+            529.3355712890625,
+            471.78924560546875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 173,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            265.37353515625,
+            59.0687255859375,
+            530.7142333984375,
+            467.46051025390625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 174,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            264.350341796875,
+            58.96232604980469,
+            533.490234375,
+            467.58514404296875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 175,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            262.3597412109375,
+            59.16438293457031,
+            533.6853637695312,
+            469.19989013671875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 176,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            262.81646728515625,
+            59.41107177734375,
+            532.6598510742188,
+            470.3486328125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 177,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            264.18377685546875,
+            59.51080322265625,
+            530.7400512695312,
+            469.21087646484375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 178,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            261.044189453125,
+            59.29766845703125,
+            525.8916015625,
+            465.91009521484375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 179,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            262.319091796875,
+            59.288818359375,
+            524.9879150390625,
+            461.64453125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 180,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            261.71026611328125,
+            59.30169677734375,
+            524.4022827148438,
+            463.53515625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 181,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            264.14544677734375,
+            59.328125,
+            523.4396362304688,
+            460.44097900390625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 182,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            264.33502197265625,
+            59.36444091796875,
+            523.614013671875,
+            457.7789306640625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 183,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            263.564697265625,
+            58.863250732421875,
+            523.845947265625,
+            449.0653381347656
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 184,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            265.6253662109375,
+            60.12017822265625,
+            524.9735107421875,
+            437.389892578125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 185,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            262.4949951171875,
+            59.8260498046875,
+            524.4859619140625,
+            455.64752197265625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 186,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            257.76263427734375,
+            58.710968017578125,
+            524.3367309570312,
+            458.5047302246094
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 187,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            261.14019775390625,
+            59.418792724609375,
+            523.9083251953125,
+            452.5934753417969
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 188,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            263.42510986328125,
+            58.36639404296875,
+            523.43212890625,
+            470.58612060546875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 189,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            265.61846923828125,
+            59.353546142578125,
+            523.2689208984375,
+            446.50042724609375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 190,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            261.16644287109375,
+            57.82720947265625,
+            522.9496459960938,
+            459.7320556640625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 191,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            265.2315673828125,
+            58.44482421875,
+            523.77734375,
+            456.238037109375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 192,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            263.193115234375,
+            57.274078369140625,
+            522.866455078125,
+            460.8448791503906
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 193,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            263.32501220703125,
+            57.29249572753906,
+            522.69775390625,
+            462.622802734375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 194,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            265.173828125,
+            57.20599365234375,
+            523.1361083984375,
+            440.19390869140625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 195,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            267.32958984375,
+            57.057098388671875,
+            523.0828857421875,
+            445.83270263671875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 196,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            268.43359375,
+            57.17449951171875,
+            523.26318359375,
+            452.57537841796875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 197,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            269.254150390625,
+            57.2099609375,
+            523.33740234375,
+            457.923095703125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 198,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            268.80963134765625,
+            57.4296875,
+            523.7047729492188,
+            442.922119140625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 199,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            270.1783447265625,
+            56.9886474609375,
+            523.593994140625,
+            459.06341552734375
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 200,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            269.55291748046875,
+            57.08378601074219,
+            523.5465698242188,
+            455.16265869140625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 201,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            269.71490478515625,
+            57.256134033203125,
+            523.4176635742188,
+            454.9432067871094
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 202,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            270.566650390625,
+            57.4002685546875,
+            522.5115966796875,
+            447.2352294921875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 203,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            271.2218017578125,
+            57.257080078125,
+            521.0914306640625,
+            444.56939697265625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 204,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            272.17779541015625,
+            57.47125244140625,
+            520.9644165039062,
+            459.4552001953125
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 205,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            271.4278564453125,
+            57.52207946777344,
+            520.1660766601562,
+            456.9625244140625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 206,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            273.2503662109375,
+            57.550048828125,
+            518.6759033203125,
+            443.80096435546875
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 207,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            273.32623291015625,
+            57.623779296875,
+            517.9492797851562,
+            437.51226806640625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 208,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            274.59930419921875,
+            57.7498779296875,
+            516.497314453125,
+            449.2353515625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 209,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            275.76617431640625,
+            57.581634521484375,
+            515.6539916992188,
+            453.3222961425781
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 210,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            275.86993408203125,
+            57.822357177734375,
+            515.5097045898438,
+            455.3667297363281
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 211,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            275.546630859375,
+            58.034393310546875,
+            516.4871826171875,
+            454.7407531738281
+          ],
+          "status": "Lumpy",
+          "num_lesions": 2
+        }
+      ],
+      "frame_total_lesions": 2
+    },
+    {
+      "frame": 212,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            276.052734375,
+            57.800018310546875,
+            519.6376953125,
+            457.4410705566406
+          ],
+          "status": "Lumpy",
+          "num_lesions": 2
+        }
+      ],
+      "frame_total_lesions": 2
+    },
+    {
+      "frame": 213,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            276.1790771484375,
+            57.80126953125,
+            522.9911499023438,
+            452.37115478515625
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    },
+    {
+      "frame": 214,
+      "counts": {
+        "Cow": 1,
+        "Healthy": 0,
+        "Lumpy": 1
+      },
+      "cows": [
+        {
+          "box": [
+            282.77301025390625,
+            57.488311767578125,
+            527.2691650390625,
+            467.1761779785156
+          ],
+          "status": "Lumpy",
+          "num_lesions": 1
+        }
+      ],
+      "frame_total_lesions": 1
+    }
+  ]
+}
