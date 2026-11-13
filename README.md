@@ -474,18 +474,8 @@ Potential future enhancements include:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
 **ZaBir HaSan**
 
-**Year:** 2026
 
----
-
-<p align="center">
-  **🐄 Animal Skin Disease Monitoring System**
-  <br/>
-  Intelligent Livestock Monitoring with Computer Vision
-  <br/><br/>
-  <i>Detect • Monitor • Analyze • Protect</i>
-</p>
